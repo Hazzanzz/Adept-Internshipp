@@ -1,13 +1,13 @@
 # Adept Internship
 
 ## Your NAME: 
-[Your Name]
+Muzaqqa Shoaib
 
 ## Your Institute: 
-[Your Institute]
+Air University
 
 ## Self-description: 
-[Brief self-description]
+I am a AI major student with a passion for coding and open-source projects.
 
 ## Motivation for internship: 
-[Your motivation for the internship]
+I am eager to apply my coding skills in real-world projects and learn from experienced professionals in the field.
